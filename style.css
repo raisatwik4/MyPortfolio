@@ -389,6 +389,9 @@ header .navbar ul li a:hover{
 #percent5{
     padding: 17rem;
 }
+#percent6{
+    padding: 17rem;
+}
 .education .box-container .box h3{
     font-size: 3rem;
     color:#fff;
@@ -728,6 +731,9 @@ footer {
     #percent5{
         padding: 12rem;
     }
+     #percent6{
+        padding: 12rem;
+    }
     
 }
 @media(max-width:400px){
@@ -799,6 +805,9 @@ footer {
         padding: 50%;
     }
     #percent5{
+        padding: 28%;
+    }
+     #percent6{
         padding: 28%;
     }
 }
